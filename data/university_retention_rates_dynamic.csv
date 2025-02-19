@@ -1,0 +1,437 @@
+Name,Location,Acceptance Rate
+Massachusetts Institute of Technology,"Cambridge, MA",99%
+University of Chicago,"Chicago, IL",99%
+Dartmouth College,"Hanover, NH",98%
+Duke University,"Durham, NC",98%
+Georgia Institute of Technology,"Atlanta, GA",98%
+Northwestern University,"Evanston, IL",98%
+Rice University,"Houston, TX",98%
+University of Notre Dame,"Notre Dame, IN",98%
+Brown University,"Providence, RI",97%
+California Institute of Technology,"Pasadena, CA",97%
+Carnegie Mellon University,"Pittsburgh, PA",97%
+Columbia University,"New York, NY",97%
+Cornell University,"Ithaca, NY",97%
+Johns Hopkins University,"Baltimore, MD",97%
+Northeastern University,"Boston, MA",97%
+University of California--Los Angeles,"Los Angeles, CA",97%
+University of Florida,"Gainesville, FL",97%
+University of Michigan--Ann Arbor,"Ann Arbor, MI",97%
+University of Pennsylvania,"Philadelphia, PA",97%
+University of Virginia,"Charlottesville, VA",97%
+Georgetown University,"Washington, DC",96%
+"University of California, Berkeley","Berkeley, CA",96%
+University of North Carolina--Chapel Hill,"Chapel Hill, NC",96%
+The University of Texas--Austin,"Austin, TX",96%
+Vanderbilt University,"Nashville, TN",96%
+Villanova University,"Villanova, PA",96%
+Washington University in St. Louis,"St. Louis, MO",96%
+Boston College,"Chestnut Hill, MA",95%
+Emory University,"Atlanta, GA",95%
+Florida State University,"Tallahassee, FL",95%
+Stanford University,"Stanford, CA",95%
+Tufts University,"Medford, MA",95%
+University of Georgia,"Athens, GA",95%
+"University of Maryland, College Park","College Park, MD",95%
+University of Southern California,"Los Angeles, CA",95%
+University of Wisconsin--Madison,"Madison, WI",95%
+Wake Forest University,"Winston-Salem, NC",95%
+Boston University,"Boston, MA",94%
+New York University,"New York, NY",94%
+North Carolina State University,"Raleigh, NC",94%
+The Ohio State University,"Columbus, OH",94%
+Texas A&M University,"College Station, TX",94%
+"University of California, San Diego","La Jolla, CA",94%
+University of Illinois Urbana-Champaign,"Champaign, IL",94%
+University of Washington,"Seattle, WA",94%
+William & Mary,"Williamsburg, VA",94%
+Worcester Polytechnic Institute,"Worcester, MA",94%
+Auburn University,"Auburn, AL",93%
+Case Western Reserve University,"Cleveland, OH",93%
+Clemson University,"Clemson, SC",93%
+Colorado School of Mines,"Golden, CO",93%
+Gonzaga University,"Spokane, WA",93%
+Princeton University,"Princeton, NJ",93%
+Rutgers University--New Brunswick,"Piscataway, NJ",93%
+Santa Clara University,"Santa Clara, CA",93%
+Stevens Institute of Technology,"Hoboken, NJ",93%
+Tulane University,"New Orleans, LA",93%
+University of California--Irvine,"Irvine, CA",93%
+University of Pittsburgh,"Pittsburgh, PA",93%
+Creighton University,"Omaha, NE",92%
+Harvard University,"Cambridge, MA",92%
+Lehigh University,"Bethlehem, PA",92%
+The Pennsylvania State University--University Park,"University Park, PA",92%
+Purdue University--Main Campus,"West Lafayette, IN",92%
+Texas Christian University,"Fort Worth, TX",92%
+"University of California, Davis","Davis, CA",92%
+"University of California, Santa Barbara","Santa Barbara, CA",92%
+University of Central Florida,"Orlando, FL",92%
+University of Connecticut,"Storrs, CT",92%
+University of Miami,"Coral Gables, FL",92%
+University of Minnesota--Twin Cities,"Minneapolis, MN",92%
+University of Rochester,"Rochester, NY",92%
+Virginia Tech,"Blacksburg, VA",92%
+Yeshiva University,"New York, NY",92%
+Binghamton University--SUNY,"Binghamton, NY",91%
+Brandeis University,"Waltham, MA",91%
+Fairfield University,"Fairfield, CT",91%
+Florida International University,"Miami, FL",91%
+Indiana University--Bloomington,"Bloomington, IN",91%
+Michigan State University,"East Lansing, MI",91%
+University of Delaware,"Newark, DE",91%
+University of South Florida,"Tampa, FL",91%
+Baylor University,"Waco, TX",90%
+Brigham Young University,"Provo, UT",90%
+Chapman University,"Orange, CA",90%
+Elon University,"Elon, NC",90%
+George Washington University,"Washington, DC",90%
+Howard University,"Washington, DC",90%
+James Madison University,"Harrisonburg, VA",90%
+Rensselaer Polytechnic Institute,"Troy, NY",90%
+San Diego State University,"San Diego, CA",90%
+Southern Methodist University,"Dallas, TX",90%
+Syracuse University,"Syracuse, NY",90%
+University of Massachusetts--Amherst,"Amherst, MA",90%
+University of South Carolina,"Columbia, SC",90%
+Yale University,"New Haven, CT",90%
+Drexel University,"Philadelphia, PA",89%
+Marquette University,"Milwaukee, WI",89%
+Miami University--Oxford,"Oxford, OH",89%
+New Jersey Institute of Technology,"Newark, NJ",89%
+Saint Louis University,"St. Louis, MO",89%
+Samford University,"Birmingham, AL",89%
+Stony Brook University--SUNY,"Stony Brook, NY",89%
+"University of California, Riverside","Riverside, CA",89%
+University of Dayton,"Dayton, OH",89%
+University of Iowa,"Iowa City, IA",89%
+University of Missouri,"Columbia, MO",89%
+University of San Diego,"San Diego, CA",89%
+University of Tennessee--Knoxville,"Knoxville, TN",89%
+Clark University,"Worcester, MA",88%
+Florida A&M University,"Tallahassee, FL",88%
+Fordham University,"New York, NY",88%
+Iowa State University of Science and Technology,"Ames, IA",88%
+Pepperdine University,"Malibu, CA",88%
+Quinnipiac University,"Hamden, CT",88%
+"University of California, Santa Cruz","Santa Cruz, CA",88%
+University of Mississippi,"University, MS",88%
+University of Oklahoma,"Norman, OK",88%
+The University of Texas--Dallas,"Richardson, TX",88%
+University of Vermont,"Burlington, VT",88%
+American University,"Washington, DC",87%
+California State University--Fullerton,"Fullerton, CA",87%
+California State University--Long Beach,"Long Beach, CA",87%
+Illinois Institute of Technology,"Chicago, IL",87%
+Kansas State University,"Manhattan, KS",87%
+Loyola Marymount University,"Los Angeles, CA",87%
+Oregon State University,"Corvallis, OR",87%
+Rochester Institute of Technology,"Rochester, NY",87%
+Touro University,"New York, NY",87%
+The University of Alabama,"Tuscaloosa, AL",87%
+University of Cincinnati,"Cincinnati, OH",87%
+University of Cincinnati,"Cincinnati, OH",87%
+University of Colorado Boulder,"Boulder, CO",87%
+University of Maryland Baltimore County,"Baltimore, MD",87%
+University of the Pacific,"Stockton, CA",87%
+University of Utah,"Salt Lake City, UT",87%
+Arizona State University,"Tempe, AZ",86%
+The Catholic University of America,"Washington, DC",86%
+Colorado State University,"Fort Collins, CO",86%
+George Mason University,"Fairfax, VA",86%
+Harding University,"Searcy, AR",86%
+Mercer University,"Macon, GA",86%
+Michigan Technological University,"Houghton, MI",86%
+Missouri University of Science and Technology,"Rolla, MO",86%
+Sacred Heart University,"Fairfield, CT",86%
+St. John Fisher University,"Rochester, NY",86%
+Texas Tech University,"Lubbock, TX",86%
+Union University,"Jackson, TN",86%
+University of Arizona,"Tucson, AZ",86%
+University of Arkansas,"Fayetteville, AR",86%
+University of Denver,"Denver, CO",86%
+University of Houston,"Houston, TX",86%
+University of Kentucky,"Lexington, KY",86%
+University of New Hampshire,"Durham, NH",86%
+University of Oregon,"Eugene, OR",86%
+University of St. Thomas (MN),"St. Paul, MN",86%
+Andrews University,"Berrien Springs, MI",85%
+Bethel University (MN),"St. Paul, MN",85%
+Bradley University,"Peoria, IL",85%
+DePaul University,"Chicago, IL",85%
+Duquesne University,"Pittsburgh, PA",85%
+Lipscomb University,"Nashville, TN",85%
+Louisiana State University--Baton Rouge,"Baton Rouge, LA",85%
+Loyola University Chicago,"Chicago, IL",85%
+Rutgers University--Newark,"Newark, NJ",85%
+Temple University,"Philadelphia, PA",85%
+University at Buffalo--SUNY,"Buffalo, NY",85%
+University of Kansas,"Lawrence, KS",85%
+University of North Carolina at Charlotte,"Charlotte, NC",85%
+University of Rhode Island,"Kingston, RI",85%
+Virginia Commonwealth University,"Richmond, VA",85%
+Belmont University,"Nashville, TN",84%
+Biola University,"La Mirada, CA",84%
+Clarkson University,"Potsdam, NY",84%
+Drake University,"Des Moines, IA",84%
+The Master's University and Seminary,"Santa Clarita, CA",84%
+Oklahoma State University,"Stillwater, OK",84%
+Rowan University,"Glassboro, NJ",84%
+San Francisco State University,"San Francisco, CA",84%
+Seattle University,"Seattle, WA",84%
+Seton Hall University,"South Orange, NJ",84%
+Springfield College,"Springfield, MA",84%
+University of Alabama at Birmingham,"Birmingham, AL",84%
+University of Detroit Mercy,"Detroit, MI",84%
+University of North Carolina--Wilmington,"Wilmington, NC",84%
+University of Tulsa,"Tulsa, OK",84%
+West Chester University of Pennsylvania,"West Chester, PA",84%
+Xavier University,"Cincinnati, OH",84%
+Adelphi University,"Garden City, NY",83%
+Maryville University of St. Louis,"St Louis, MO",83%
+Mississippi State University,"Mississippi State, MS",83%
+Simmons University,"Boston, MA",83%
+Thomas Jefferson University,"Philadelphia, PA",83%
+University at Albany--SUNY,"Albany, NY",83%
+"University of California, Merced","Merced, CA",83%
+University of Massachusetts--Lowell,"Lowell, MA",83%
+University of Nebraska -- Lincoln,"Lincoln, NE",83%
+William Carey University,"Hattiesburg, MS",83%
+East Carolina University,"Greenville, NC",82%
+Florida Atlantic University,"Boca Raton, FL",82%
+Florida Gulf Coast University,"Fort Myers, FL",82%
+Hofstra University,"Hempstead, NY",82%
+Illinois State University,"Normal, IL",82%
+Immaculata University,"Immaculata, PA",82%
+Louisiana Tech University,"Ruston, LA",82%
+Misericordia University,"Dallas, PA",82%
+Robert Morris University,"Moon Township, PA",82%
+St. John's University (NY),"Queens, NY",82%
+SUNY College of Environmental Science and Forestry,"Syracuse, NY",82%
+Wayne State University,"Detroit, MI",82%
+California State University--San Bernardino,"San Bernardino, CA",81%
+The College of St. Scholastica,"Duluth, MN",81%
+Grand Valley State University,"Allendale, MI",81%
+Montclair State University,"Montclair, NJ",81%
+Ohio University,"Athens, OH",81%
+Rutgers University--Camden,"Camden, NJ",81%
+Shenandoah University,"Winchester, VA",81%
+South Dakota State University,"Brookings, SD",81%
+Southeastern Baptist Theological Seminary,"Wake Forest, NC",81%
+University of Findlay,"Findlay, OH",81%
+University of North Florida,"Jacksonville, FL",81%
+University of San Francisco,"San Francisco, CA",81%
+Washington State University,"Pullman, WA",81%
+West Virginia University,"Morgantown, WV",81%
+California State University--Fresno,"Fresno, CA",80%
+Concordia University Wisconsin,"Mequon, WI",80%
+DeSales University,"Center Valley, PA",80%
+Gannon University,"Erie, PA",80%
+George Fox University,"Newberg, OR",80%
+Kent State University,"Kent, OH",80%
+Liberty University,"Lynchburg, VA",80%
+The New School,"New York, NY",80%
+Oklahoma City University,"Oklahoma City, OK",80%
+St. Ambrose University,"Davenport, IA",80%
+St. Catherine University,"St. Paul, MN",80%
+Stockton University,"Galloway, NJ",80%
+University of Alabama at Huntsville,"Huntsville, AL",80%
+University of Illinois--Chicago,"Chicago, IL",80%
+University of Nevada--Reno,"Reno, NV",80%
+University of North Dakota,"Grand Forks, ND",80%
+University of North Texas,"Denton, TX",80%
+University of Puerto Rico--Rio Piedras,"Rio Piedras, PR",80%
+University of South Dakota,"Vermillion, SD",80%
+Valparaiso University,"Valparaiso, IN",80%
+Widener University,"Chester, PA",80%
+Abilene Christian University,"Abilene, TX",79%
+Azusa Pacific University,"Azusa, CA",79%
+Bellarmine University,"Louisville, KY",79%
+Bowling Green State University,"Bowling Green, OH",79%
+Chatham University,"Pittsburgh, PA",79%
+CUNY--City College,"New York, NY",79%
+Florida Institute of Technology,"Melbourne, FL",79%
+Long Island University,"Brookville, NY",79%
+Loyola University New Orleans,"New Orleans, LA",79%
+Marian University (IN),"Indianapolis, IN",79%
+Mississippi College,"Clinton, MS",79%
+Pacific University,"Forest Grove, OR",79%
+Saint Mary's University of Minnesota,"Winona, MN",79%
+University of Hawaii at Manoa,"Honolulu, HI",79%
+University of Louisville,"Louisville, KY",79%
+The University of Texas--San Antonio,"San Antonio, TX",79%
+Arkansas State University,"State University, AR",78%
+Boise State University,"Boise, ID",78%
+California State University--East Bay,"Hayward, CA",78%
+Daemen University,"Amherst, NY",78%
+Eastern Kentucky University,"Richmond, KY",78%
+Georgia State University,"Atlanta, GA",78%
+Gwynedd Mercy University,"Gwynedd Valley, PA",78%
+Hampton University,"Hampton, VA",78%
+North Carolina Agricultural and Technical State University,"Greensboro, NC",78%
+North Dakota State University,"Fargo, ND",78%
+Nova Southeastern University,"Ft. Lauderdale, FL",78%
+Pontifical Catholic University of Puerto Rico--Arecibo,"Arecibo, PR",78%
+Pontifical Catholic University of Puerto Rico--Ponce,"Ponce, PR",78%
+Seattle Pacific University,"Seattle, WA",78%
+Texas State University,"San Marcos, TX",78%
+University of Hartford,"West Hartford, CT",78%
+University of La Verne,"La Verne, CA",78%
+University of Mary,"Bismarck, ND",78%
+University of Nevada--Las Vegas,"Las Vegas, NV",78%
+Western Michigan University,"Kalamazoo, MI",78%
+Ferris State University,"Big Rapids, MI",77%
+Husson University,"Bangor, ME",77%
+Kennesaw State University,"Kennesaw, GA",77%
+Middle Tennessee State University,"Murfreesboro, TN",77%
+Missouri State University,"Springfield, MO",77%
+University of Maine,"Orono, ME",77%
+University of North Carolina--Greensboro,"Greensboro, NC",77%
+The University of Texas--Rio Grande Valley,"Edinburg, TX",77%
+University of Wyoming,"Laramie, WY",77%
+Western New England University,"Springfield, MA",77%
+Winston-Salem State University,"Winston-Salem, NC",77%
+Aurora University,"Aurora, IL",76%
+Ball State University,"Muncie, IN",76%
+Capitol Technology University,"Laurel, MD",76%
+Central Michigan University,"Mount Pleasant, MI",76%
+D'Youville University,"Buffalo, NY",76%
+Gallaudet University,"Washington, DC",76%
+Montana State University,"Bozeman, MT",76%
+Oakland University,"Rochester, MI",76%
+Suffolk University,"Boston, MA",76%
+Tennessee Tech University,"Cookeville, TN",76%
+University of Lynchburg,"Lynchburg, VA",76%
+The University of Toledo,"Toledo, OH",76%
+Western Carolina University,"Cullowhee, NC",76%
+Western Kentucky University,"Bowling Green, KY",76%
+Baker University,"Baldwin City, KS",75%
+Campbell University,"Buies Creek, NC",75%
+Edgewood College,"Madison, WI",75%
+Georgia Southern University,"Statesboro, GA",75%
+Marshall University,"Huntington, WV",75%
+Marymount University,"Arlington, VA",75%
+Northern Arizona University,"Flagstaff, AZ",75%
+Northern Kentucky University,"Highland Heights, KY",75%
+Oakland City University,"Oakland City, IN",75%
+Old Dominion University,"Norfolk, VA",75%
+Portland State University,"Portland, OR",75%
+Regis University,"Denver, CO",75%
+Sam Houston State University,"Huntsville, TX",75%
+University of Idaho,"Moscow, ID",75%
+University of Louisiana at Lafayette,"Lafayette, LA",75%
+University of Memphis,"Memphis, TN",75%
+University of Missouri--Kansas City,"Kansas City, MO",75%
+University of Montana,"Missoula, MT",75%
+University of St. Francis,"Joliet, IL",75%
+University of St. Thomas (TX),"Houston, TX",75%
+The University of Texas--El Paso,"El Paso, TX",75%
+Jackson State University,"Jackson, MS",74%
+Kean University,"Union, NJ",74%
+New Mexico State University,"Las Cruces, NM",74%
+Pace University,"New York, NY",74%
+Prairie View A&M University,"Prairie View, TX",74%
+Russell Sage College,"Troy, NY",74%
+Southern Illinois University--Carbondale,"Carbondale, IL",74%
+Southern Illinois University Edwardsville,"Edwardsville, IL",74%
+Texas Woman's University,"Denton, TX",74%
+Trevecca Nazarene University,"Nashville, TN",74%
+Universidad Ana G. Mendez--Gurabo Campus,"Gurabo, PR",74%
+University of Central Arkansas,"Conway, AR",74%
+University of Massachusetts--Boston,"Boston, MA",74%
+University of Michigan--Flint,"Flint, MI",74%
+University of Missouri--St. Louis,"St. Louis, MO",74%
+University of Nebraska Omaha,"Omaha, NE",74%
+University of New England,"Biddeford, ME",74%
+University of Tennessee at Chattanooga,"Chattanooga, TN",74%
+The University of Texas--Arlington,"Arlington, TX",74%
+University of Wisconsin--Milwaukee,"Milwaukee, WI",74%
+Utah State University,"Logan, UT",74%
+Walsh University,"North Canton, OH",74%
+Wilkes University,"Wilkes-Barre, PA",74%
+Concordia University Irvine,"Irvine, CA",73%
+East Tennessee State University,"Johnson City, TN",73%
+Lincoln Memorial University,"Harrogate, TN",73%
+Morgan State University,"Baltimore, MD",73%
+Mount St. Joseph University,"Cincinnati, OH",73%
+Point Park University,"Pittsburgh, PA",73%
+University of Houston--Clear Lake,"Houston, TX",73%
+University of Louisiana at Monroe,"Monroe, LA",73%
+University of South Alabama,"Mobile, AL",73%
+University of the Incarnate Word,"San Antonio, TX",73%
+University of West Georgia,"Carrollton, GA",73%
+Augusta University,"Augusta, GA",72%
+Dominican University New York,"Orangeburg, NY",72%
+Grand Canyon University,"Phoenix, AZ",72%
+Indiana University--Indianapolis,"Indianapolis, IN",72%
+Lesley University,"Cambridge, MA",72%
+Palm Beach Atlantic University,"West Palm Beach, FL",72%
+University of Alaska--Fairbanks,"Fairbanks, AK",72%
+University of Colorado Denver,"Denver, CO",72%
+University of New Mexico,"Albuquerque, NM",72%
+University of Northern Colorado,"Greeley, CO",72%
+Alvernia University,"Reading, PA",71%
+Cleveland State University,"Cleveland, OH",71%
+Indiana University of Pennsylvania,"Indiana, PA",71%
+La Salle University,"Philadelphia, PA",71%
+Radford University,"Radford, VA",71%
+Regent University,"Virginia Beach, VA",71%
+Tarleton State University,"Stephenville, TX",71%
+The University of Akron,"Akron, OH",71%
+University of Arkansas--Little Rock,"Little Rock, AR",71%
+University of Charleston,"Charleston, WV",71%
+University of Southern Mississippi,"Hattiesburg, MS",71%
+William Woods University,"Fulton, MO",71%
+Carson-Newman University,"Jefferson City, TN",70%
+Northern Illinois University,"DeKalb, IL",70%
+University of Hawaii at Hilo,"Hilo, HI",70%
+University of Wisconsin--Oshkosh,"Oshkosh, WI",70%
+Eastern Michigan University,"Ypsilanti, MI",69%
+Southeastern University,"Lakeland, FL",69%
+University of the Cumberlands,"Williamsburg, KY",69%
+Wichita State University,"Wichita, KS",69%
+Belhaven University,"Jackson, MS",68%
+Clark Atlanta University,"Atlanta, GA",68%
+Clarke University,"Dubuque, IA",68%
+Dallas Baptist University,"Dallas, TX",68%
+University of Colorado--Colorado Springs,"Colorado Springs, CO",68%
+University of Indianapolis,"Indianapolis, IN",68%
+University of Maryland Eastern Shore,"Princess Anne, MD",68%
+University of Massachusetts--Dartmouth,"North Dartmouth, MA",68%
+American International College,"Springfield, MA",67%
+Idaho State University,"Pocatello, ID",67%
+Keiser University,"Ft. Lauderdale, FL",67%
+Texas A&M University--Kingsville,"Kingsville, TX",67%
+Gardner-Webb University,"Boiling Springs, NC",66%
+Indiana State University,"Terre Haute, IN",66%
+Wingate University,"Wingate, NC",66%
+Trinity International University,"Deerfield, IL",65%
+University of Mary Hardin-Baylor,"Belton, TX",65%
+University of New Orleans,"New Orleans, LA",65%
+The University of Texas--Tyler,"Tyler, TX",65%
+Briar Cliff University,"Sioux City, IA",64%
+Hardin-Simmons University,"Abilene, TX",64%
+University of Bridgeport,"Bridgeport, CT",64%
+University of Pikeville,"Pikeville, KY",64%
+Valdosta State University,"Valdosta, GA",64%
+Wright State University,"Dayton, OH",64%
+Mary Baldwin University,"Staunton, VA",63%
+Alabama State University,"Montgomery, AL",62%
+Southern University and A&M College,"Baton Rouge, LA",62%
+Texas A&M University--Commerce,"Commerce, TX",62%
+Lamar University,"Beaumont, TX",61%
+National Louis University,"Chicago, IL",61%
+Roosevelt University,"Chicago, IL",60%
+Tennessee State University,"Nashville, TN",60%
+Texas Wesleyan University,"Fort Worth, TX",60%
+Barry University,"Miami Shores, FL",59%
+Our Lady of the Lake University,"San Antonio, TX",59%
+Our Lady of the Lake University,"San Antonio, TX",59%
+Saint Leo University,"Saint Leo, FL",58%
+Texas A&M University--Corpus Christi,"Corpus Christi, TX",58%
+Texas Southern University,"Houston, TX",58%
+Brenau University,"Gainesville, GA",55%
+Brenau University,"Gainesville, GA",55%
+Wilmington University,"New Castle, DE",55%
+St. Thomas University,"Miami Gardens, FL",53%
+Colorado Technical University,"Colorado Springs, CO",46%
